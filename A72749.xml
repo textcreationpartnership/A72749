@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A forme of prayer to be publikely vsed in churches, during this vnseasonable weather, and aboundance of raine. Set forth by authoritie..</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72749</idno>
+            <idno type="STC">STC 16539</idno>
+            <idno type="STC">ESTC S123409</idno>
+            <idno type="EEBO-CITATION">99898610</idno>
+            <idno type="PROQUEST">99898610</idno>
+            <idno type="VID">173297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173297)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2032:9, 2312:12b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A forme of prayer to be publikely vsed in churches, during this vnseasonable weather, and aboundance of raine. Set forth by authoritie..</title>
+                  <author>Church of England.</author>
+                  <author>Dyson, Humphrey, d. 1633.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1613..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy at reel 2312:12b has ms. inscription on t.p.: Hum: Dyson.</note>
+                  <note>Reproductions of originals in the Henry E. Huntington Library and Art Gallery (reel 2032:9) and British Library (reel 2312:12b).</note>
+                  <note>Copy at reel 2312:12b is bound following STC 16537, and preceding STC 16497.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173297:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>illustrated border framing title page</figDesc>
+                  <figure>
+                     <figDesc>Matthew the evangelist, represented by a winged man or an angel</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>John the evangelist, represented by an eagle</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>emblematic representation of Faith with sword and shield</figDesc>
+                     <head>FIDES</head>
+                  </figure>
+                  <figure>
+                     <figDesc>emblematic representation of Humility with a lamb</figDesc>
+                     <head>HVMILITAS</head>
+                  </figure>
+                  <figure>
+                     <figDesc>Mark the evangelist, represented by a lion</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>Luke the evangelist, represented by an ox</figDesc>
+                  </figure>
+                  <p>A FORME of Prayer to be publikely vſed in Churches, during <hi>this vnſeaſonable Weather, and aboundance of Raine.</hi>
+                  </p>
+                  <p>¶ Set forth by Authoritie.</p>
+                  <q>
+                     <bibl>HOSEA 5.15.</bibl>
+                     <p>In their affliction they will ſeeke me early.</p>
+                  </q>
+                  <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Maieſtie. 1613.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="prayers">
+            <pb facs="tcp:173297:2"/>
+            <pb facs="tcp:173297:2"/>
+            <head>¶ A forme of Prayer to be publikely vſed in Churches, during this vnſeaſonable weather, and abundance of Raine.</head>
+            <div type="rite_for_morning_prayer">
+               <p>At Morning Prayer after the 95. Pſalme, <hi>O come let vs ſing vnto the Lord, &amp;c.</hi> Read the 105. Pſalme, and the 10. Pſalme.</p>
+               <p>For the firſt Leſſon, the 6. and 7. of Geneſis.</p>
+               <p>For the ſecond Leſſon, the 17. of Luke, or the 24. of Matthew.</p>
+               <p>After the Collect, <hi>O Lord our heauenly Father, Almighty and euerla<g ref="char:EOLhyphen"/>ſting God, &amp;c.</hi> Say this Prayer.</p>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſt gracious God, and mercifull Fa<g ref="char:EOLhyphen"/>ther, foraſmuch as wee are taught by thy holy Word,<note place="margin">Leuit. 26.</note> that thou wilt breake the pride of our power, bring vpon vs burning Agues to con<g ref="char:EOLhyphen"/>ſume vs, make our hearts heauie; And that thou wilt ſuffer vs to ſow
+<pb n="2" facs="tcp:173297:3"/>our Seed in vaine, and breake the ſtaffe of our Bread, when we deſpiſe thy ſacred Ordinances, and walke ſtubbornly againſt thee: in that thou haſt partly viſited, partly threatned vs with thy dreadfull puniſhments, thou doeſt thereby graciouſly admo<g ref="char:EOLhyphen"/>niſh vs of our manifold ſinnes, and wilfull tranſgreſſions againſt thy moſt ſacred Maieſtie. Wee haue a long time ſecurely ſtumbred in the ſenſeleſſenes of our iniquities, and it hath pleaſed thy Gracious goodneſſe by theſe thy chaſtiſements mercifully to awaken vs. Wherefore we ſee the grieuouſnes of our impietie, and be<g ref="char:EOLhyphen"/>holding it, our hearts are filled with ſorrow, and our eyes are watered with penitent teares. We do humbly acknowledge and confeſſe our great vnthankefulneſſe for the continuall multiplying of thy bleſſings vpon vs. For the more thou haſt heaped on vs thy Mercies, the more haue we, wretched ſinners, by our tranſgreſſi<g ref="char:EOLhyphen"/>ons prouoked thy Iuſtice: and there<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:173297:3"/>moſt iuſtly haſt thou laid thy hea<g ref="char:EOLhyphen"/>uie hand vpon vs, in ſmiting ſome of vs with a lingering ſickneſſe, &amp; by vn<g ref="char:EOLhyphen"/>ſeaſonable wether menacing dearth, and further ſcarcity. Theſe extraordi<g ref="char:EOLhyphen"/>narie afflictions, are infallible ſignes of thy wrath &amp; anger kindled againſt vs, yet becauſe we know thee not one<g ref="char:EOLhyphen"/>ly to be a iuſt, and righteous, but like<g ref="char:EOLhyphen"/>wiſe a mercifull God in thy deare Sonne Ieſus Chriſt; through his mediation, wee preſume to proſtrate our ſelues before thy Throne of grace, moſt humbly beſeeching thy Fatherly goodneſſe to waſh away the vncleane pollutions of our ſinnes with his precious blood, and to caſt them into the bottome of the Sea, that their lowd crie may no longer pearce the Heauens, and thence pluck downe thine irefull indignation vp<g ref="char:EOLhyphen"/>on vs: but wee being receiued into thy fauour, and henceforth walking in pietie, obedience, temperance, ſo<g ref="char:EOLhyphen"/>briety, and bringing forth fruits wor<g ref="char:EOLhyphen"/>thy of amendment of life, may to our
+<pb n="4" facs="tcp:173297:4"/>comfort enioy thy temporall bleſ<g ref="char:EOLhyphen"/>ſings in this life, and in that which is to come eternall glory, for Chriſt his ſake our onely Aduocate and Me<g ref="char:EOLhyphen"/>diatour. Amen.</p>
+               <div type="part">
+                  <head>¶ Then reade the Letanie, where, after the Prayer, <hi>Almighty and euerlaſting God, which onely workeſt great marueiles, &amp;c.</hi> ſay this Prayer.</head>
+                  <p>
+                     <seg rend="decorInit">O</seg> Moſt Omnipotent Cre<g ref="char:EOLhyphen"/>ator, who by thine infi<g ref="char:EOLhyphen"/>nite power haſt framed the whole world, and all things therein con<g ref="char:EOLhyphen"/>tained, of nothing, and out of thine vnſpeakable loue towards man haſt placed glorious lights in the firma<g ref="char:EOLhyphen"/>ment to ſhine vpon the earth, and to be ſignes for Seaſons, for Dayes, and for Yeeres, &amp; haſt appointed the Hea<g ref="char:EOLhyphen"/>uens to ſhed down fruitful ſhowres, and the earth to bring foorth euery greene and liuing thing in due ſeaſon: for this thine ineſtimable goodneſſe
+<pb n="5" facs="tcp:173297:4"/>we are inceſſantly bound to dedicate our ſelues, our ſoules and bodies, yea, all our thoughts, and endeauors to be perpetuall ſacrifices of thanke<g ref="char:EOLhyphen"/>fulneſſe vnto thy holy Name, and e<g ref="char:EOLhyphen"/>uermore to praiſe and magnifie the riches of thy mercy towards vs. But wee, like a diſobedient, and ſinfull people, haue bin altogether vnmind<g ref="char:EOLhyphen"/>full of thy great clemencie, and made thy gracious bleſſings inſtruments of horrible ingratitude againſt thy di<g ref="char:EOLhyphen"/>uine Maieſtie: abuſing them to pride, wantonneſſe, ſurfetting, drunken<g ref="char:EOLhyphen"/>neſſe, and all kind of riot and exceſſe; wherewith wee moſt iuſtly haue pro<g ref="char:EOLhyphen"/>uoked thy fearefull wrath, and indig<g ref="char:EOLhyphen"/>nation againſt vs. And as we by the multitude of our ſinnes haue fre<g ref="char:EOLhyphen"/>quently violated thy diuine ordinan<g ref="char:EOLhyphen"/>ces, and Statutes, ſo haſt thou of late commanded the heauens, the earth, and the times and ſeaſons depending on them, to breake and alter their courſe, ſo to puniſh vs for theſe ſinnes, with an vnuſuall diſeaſe, and
+<pb n="6" facs="tcp:173297:5"/>with feare of future famine, if out of thy bottomleſſe mercy thou ſtret<g ref="char:EOLhyphen"/>cheſt not out thy ſauing hand to ſtop the ſtreame of thy fury, like to be powred downe vpon vs. We haue ſinned, we haue ſinned, O Lord, and in the immoderate ſhowres, vnna<g ref="char:EOLhyphen"/>turall ſeaſons of the yeere, and long lingring ſickneſſe continuing yet a<g ref="char:EOLhyphen"/>mongſt vs, We haue felt the weight of thy heauie diſpleaſure. But now from the ground of our hearts, We grieue and are ſorry, We mourne, and lament for theſe our tranſgreſ<g ref="char:EOLhyphen"/>ſions: Lord then let thy heauie diſ<g ref="char:EOLhyphen"/>pleaſure ceaſe, and be no longer an<g ref="char:EOLhyphen"/>gry with vs. We doe vnfainedly re<g ref="char:EOLhyphen"/>pent vs of all our iniquities, and through the gracious aſſiſtance of thy holy ſpirit doe moſt ſeriouſly purpoſe to turne vnto thee: Lord then turne vnto vs, and let the light of thy countenance ſhine vpon vs, in vouchſafing vnto vs moderate ſhowres, healthfull ſeaſons, and the fruitfull increaſe of the earth. Bleſſe
+<pb n="7" facs="tcp:173297:5"/>vs O Lord, that we may bleſſe thee; giue vnto vs ſtrength, and health, that we may praiſe thy ſauing health: graunt vnto vs ſeaſonable weather, and with it, thy plenty and aboun<g ref="char:EOLhyphen"/>dance, that ſo we may be taught to magnifie the abundance of thy mer<g ref="char:EOLhyphen"/>cies through all generations, to our euerlaſting ſaluation, and thy end<g ref="char:EOLhyphen"/>leſſe honor and glory, through Ieſus Chriſt our onely Lord and Sauiour. Amen.</p>
+               </div>
+            </div>
+            <div type="rite_for_evening_prayer">
+               <pb n="8" facs="tcp:173297:6"/>
+               <p>At Euening prayer, Reade the 78. Pſalme, in ſtead of the Pſalmes appointed for the day.</p>
+               <p>For the firſt Leſſon, reade Deut. 28.</p>
+               <p>For the ſecond Leſſon, reade the Epiſtle of S. Iude, or, 1. Cor. 10. vnto the end of the thir<g ref="char:EOLhyphen"/>teenth verſe.</p>
+               <p>Before the Collect, <hi>Lighten our darke<g ref="char:EOLhyphen"/>nes, &amp;c.</hi> reade this Prayer.</p>
+               <p>
+                  <seg rend="decorInit">E</seg>Ternall God, whoſe perfect holineſſe being e<g ref="char:EOLhyphen"/>uery where preſent, can<g ref="char:EOLhyphen"/>not ſuffer the wilfull en<g ref="char:EOLhyphen"/>creaſe of wickednes and ſinne: and therefore by thy manifeſt and viſible iudgments thou declareſt vnto grieuous ſinners, both the greatneſſe of thine indignation, and the weightineſſe of their offences: we miſerable &amp; wretched ſinners, being admoniſhed by the apparent ſignes of thy diſpleaſure now vpon vs, into
+<pb n="9" facs="tcp:173297:6"/>what danger wee haue brought our ſelues by ſinne, doe here humbly con<g ref="char:EOLhyphen"/>feſſe our multiplied tranſgreſſions a<g ref="char:EOLhyphen"/>gainſt thy diuine Maieſtie, earneſtly deſiring thy ſingular goodnes, to re<g ref="char:EOLhyphen"/>ſpect vs with the eye of mercy, and to grant vnto vs vnfained repentance, that ſo the courſe of thy deſerued an<g ref="char:EOLhyphen"/>ger may bee ſtayed againſt vs. O Lord, we behold and acknowledge thy hand powring vpon vs this cha<g ref="char:EOLhyphen"/>ſtiſement of immoderate raine and waters: and the long continuance of this vnſeaſonable weather, hath wrought vpon our co<g ref="char:cmbAbbrStroke">̄</g>ſciences (which are not ſo ſenſible as they ſhould bee) at length to be affrighted, and to call vpon thee. Saue vs therfore, O God, that we periſh not: deliuer vs out of the mire, that we ſinke not: preſerue vs, O Lord, for the waters are come in, euen vnto the ſoules of many of vs. Let not the water flood drowne vs, neither let the deepe ſwallow vs vp: and let not the pit ſhut her mouth vp<g ref="char:EOLhyphen"/>on vs. We confeſſe, O God, that ini<g ref="char:EOLhyphen"/>quitie
+<pb n="10" facs="tcp:173297:7"/>doeth abound, that our ſundry pollutions haue cried euen to the hea<g ref="char:EOLhyphen"/>uens for all thy ſtormes and tempeſts to fall vpon vs: but we beſeech thee rather of thy infinite mercy to waſh vs in the merits of thy Sonne Ieſus Chriſt our Sauiour: for his ſake ac<g ref="char:EOLhyphen"/>cept our teares, our ſighes, and hear<g ref="char:EOLhyphen"/>ty ſorrow for our ſinnes, and by the aſſiſtance of thy gracious ſpirit, make good our true purpoſes of amend<g ref="char:EOLhyphen"/>ment of life: Let thy bleſſed Name rather bee glorified in our ſaluation. Father of mercies, and God of al con<g ref="char:EOLhyphen"/>ſolation, looke vpon the ſigne of thy Couenant in the clouds, and as thou ſauedſt thy people in the red ſea; ſo we beſeech thee to reſtraine thy ſhowres, and to deliuer vs from this plague of waters. Furthermore, O heauenly Father, we doe feele that wrath is al<g ref="char:EOLhyphen"/>ready gone out from thee, that thou doeſt threaten vs with ſcarcitie, and dearth: by theſe intemperate ouer<g ref="char:EOLhyphen"/>flowings to make our fruitfull land barren, for the wickedneſſe of them
+<pb n="11" facs="tcp:173297:7"/>that dwell therein: wee earneſtly deſire thee to forgiue the ignorances of the people, that the multitude of poore may not periſh whome thou haſt created. Our manifold ſinnes, O Lord, do deſerue, that thou ſhouldeſt viſit vs with all thy roddes: As thou haſt ſcourged vs heretofore with pe<g ref="char:EOLhyphen"/>ſtilence, &amp; doeſt now weaken vs with a new diſeaſe: ſo thou maieſt more de<g ref="char:EOLhyphen"/>ſeruedly conſume vs with ſcarcitie, and waſte vs with death: but we flie vnto the Sanctuary of thy louing kindeneſſe, and the multitude of thy mercies towards vs, which exceede the variety of our ſinnes. Remember thy wonted fauours to this land, how long thou haſt giuen vs mode<g ref="char:EOLhyphen"/>rate raine from heauen, and fruitfull ſeaſons, filling our hearts with ioy and gladneſſe. Which bleſſings al<g ref="char:EOLhyphen"/>though we haue abuſed like prodigal ſonnes, by riot, and intemperance, by forgetfulnes and vnthankfulnes, yet for thy goodnes receiue vs when we turne vnto thee by the interceſſion of
+<pb n="12" facs="tcp:173297:8"/>thy only obedient Sonne, and grant vs the continuance of theſe temporall benefits, where of we haue neceſſitie in this life, vntill wee haue paſſed to immortalitie, and things eternall in the life to come, by the grace and mer<g ref="char:EOLhyphen"/>cy of our Sauiour Ieſus Chriſt, who liueth and reigneth, &amp;c.</p>
+               <p>Or this.<lb/>
+                  <seg rend="decorInit">A</seg>Lmightie, and moſt merciful Father, which vſeſt to be prouoked by offences, and yet paci<g ref="char:EOLhyphen"/>fied againe by repen<g ref="char:EOLhyphen"/>tance: which by thy puniſhments deſireſt the deſtruction of the ſinnes, and not of the ſoules of thy ſeruants: We miſerable and grieuous ſinners doe beſeech thee, to encline thine eares vnto our prayers, and to deli<g ref="char:EOLhyphen"/>uer vs from the future calamities and afflictions, which (we haue iuſt cauſe to feare) doe now hang ouer our heades. Thou haſt changed
+<pb n="13" facs="tcp:173297:8"/>already the ordinary cuſtome of the ſeaſon, and by the ouerflowing of raine and waters doeſt threaten to waſh away the ſtrength and fatnes of the earth; to ſend ſcarcity and want amongſt vs: We humbly be<g ref="char:EOLhyphen"/>ſeech thee to turne away this thy de<g ref="char:EOLhyphen"/>ſerued diſpleaſure from vs, to conſi<g ref="char:EOLhyphen"/>der our infirmities, and vpon our ſorrow and repentance to alter the ſentence of ſeueritie, if any be gone out againſt vs, and that for thy ten<g ref="char:EOLhyphen"/>der mercy in Chriſt Ieſus, who li<g ref="char:EOLhyphen"/>ueth and reigneth, &amp;c.</p>
+               <pb facs="tcp:173297:9"/>
+               <pb facs="tcp:173297:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
